@@ -1,0 +1,18 @@
+Decide  on architecture - feeding thread and consumers, or distribute at
+startup
+
+command line parsing
+finish socket class
+do http class for http request parsing and formation
+
+make simple lua API
+
+
+Napisat' BeeController -> Prostoi TCP server kotorii prosto prinimaet
+konnektsii ot Bee Daemonov. slushaet kommandi uzera i zasilaet kommandi vsem
+aktivnim socketam.
+
+httpbee - ishet direktoriyu modules, smotrit vse scripti tam.. i zagruzhaet
+scripti s opredelennimi tegami
+
+or maybe make it listen to queries, and scripts - send stuff

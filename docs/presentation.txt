@@ -1,0 +1,26 @@
+agent should exhibit:
+
+Autonomy
+Cooperation
+Learning
+
+Autonomy - agent can function autonomously, without human guidance
+Cooperation - iterract with other agents
+Agent learning - improving agent performance over time
+
+
+system where boundary between what agents do and what human do - is flexible
+
+radical tailorability: do not make agent to try to figure out things, which
+human can easily tell them
+
+solves problems by retriving similar cases from database
+selecting the best cases
+adapting the cases
+applying the solution
+evaluating the solution
+
+creating a new case:
+
+retrive, teuse, revise, retain
+
